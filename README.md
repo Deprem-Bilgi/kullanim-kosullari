@@ -1,27 +1,23 @@
-# Deprem Bilgi Discord Bot Hizmet Şartları
+# Hizmet Şartları
 
-**Son Değiştirilme Tarihi: 24.08.2023**
+## Son Değiştirilme Tarihi: 08.12.2023
 
-Bu hizmet şartları **Deprem Bilgi (1010946492544069724)** botuna aittir.
+### Kullanım Şartları
+Bota zarar verecek, hata çıkartacak her türlü şey yasaktır ve karaliste sebebidir. Herhangi bir sorun ile karşılaşıldığında direkt olarak yetkililere bildirilmelidir. Ayrıca botu kullanırken Discord'un kendi politikalarına uymanız gerekir. Herhangi bir ihlal yaptığınızda yetkili kişi size herhangi bir bildirim yapma zorunluluğu olmadan karalisteye ekleyebilir.
 
-## 1) Kullanım
-### A)
-Deprem Bilgi botu kullanan herkes, bu şartları okumuş ve kabul etmiş sayılır.
-### B)
-Deprem Bilgi botunu kullanırken Discord kurallarına ve hizmet şartlarına uymak zorundasınız.
+### Gizlilik
+Kullanıcı bilgileri, gizlilik politikamıza tabi olarak ilerler ve işlenir. Hizmet için alınan tüm veriler gizlilik politikasında belirtilmiştir.
 
-## 2) Komut Kullanımı
-### A)
-Deprem Bilgi bot komutlarını kullanırken bota hata yaratacak şekilde kullanım yasaktır (örneğin, spam ve benzeri).
-### B)
-Deprem Bilgi botun komutlarını kopyalamak ve aynısını yapmak yasaktır.
+### Kullanıcı Hakları
+Kullanıcılar, kendi verilerini inceleme ve düzeltme hakkına sahiptirler. Ayrıca, verilerin silinmesini talep edebilirler.
 
-## 3) Yetkili
-### A)
-Botta oluşan sorunlardan destek ekibi gibi yetkililer sorumlu değildir ve sorumlu tutulamazlar.
+### İçerik Hakları
+Hizmet veya her türlü şey dahilinde sunulan tüm içeriklerimizin tüm hakları saklıdır. Herhangi bir izin olmadan kopyalanması, değiştirilmesi ve dağıtılması yasaktır.
 
-## 4) Kurucu
-### A)
-Botun kurucusu, yani sahibi, bu şartların dışına çıktığınızda istediği an sizi karalisteye ekleyebilir, vakit, zaman veya sebep belirtmeksizin.
+### Hizmet Şartları Değişiklikleri
+Bu politika zaman zaman güncellenebilir. Değişiklikler, bu sayfada yayınlandığı tarihte yürürlüğe girer. Her kullanıcı hizmet şartlarını okumuş ve kabul etmiş sayılır.
 
-Bu hizmet şartları, Deprem Bilgi botunun kullanımı için geçerlidir.
+### İletişim
+Kullanıcılar, hizmetlerle ilgili herhangi bir soru veya bildirim için iletişim kanallarımızı kullanabilirler: e-posta support@deprembilgi.xyz ve [Discord sunucusu](https://discord.com/invite/vxAVmzev23).
+
+Hizmet şartları, "Deprem Bilgi" Discord botu ve [deprembilgi.xyz](https://deprembilgi.xyz) sitesi için geçerlidir.
